@@ -2,7 +2,7 @@
 
 ### Диплом и характеристика
 
-- За разработку активной фазированной антенной решетки Х-диапазона частот из состава бортоовой аппаратуры высокоскоростной радиолинии [Диплом](https://drive.google.com/file/d/1biD0le5LHpEZOoQcHXm4Cp6tSmE15-6S/view?usp=drive_link)
+- За разработку активной фазированной антенной решетки Х-диапазона частот из состава бортовой аппаратуры высокоскоростной радиолинии [Диплом](https://drive.google.com/file/d/1biD0le5LHpEZOoQcHXm4Cp6tSmE15-6S/view?usp=drive_link)
 - [Характеристика](https://drive.google.com/file/d/1U_ZVw2WQlZtUjWmqYAk8eRaaXa96zOZc/view?usp=drive_link)
 
 
